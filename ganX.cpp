@@ -1,9 +1,7 @@
 #include<iostream>
-#include<math.h>
 using namespace std;
 
-int main();
-{
-		cout
-	
+int main() {
+	cout << "Hello world";
+	return;
 }
