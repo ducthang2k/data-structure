@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593335408 source:f:\hoc\ci cong cong\pro\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
